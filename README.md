@@ -1,11 +1,13 @@
-This is a fork of joshowens:accounts-entry which uses Flow Router instead of Iron Router.
+This is a fork of dovrosenberg:accounts-entry-flow which is a fork of joshowens:accounts-entry. This version utilizes Flow Router instead of Iron Router.
 
 ## Getting started
 
 Install:
 
+Download repo, add it to root level folder named packages, then in the terminal type:
+
 ```
-meteor add dovrosenberg:accounts-entry-flow
+meteor add goorancid:accounts-flow-entry
 ```
 
 See the [original](https://github.com/Differential/accounts-entry) package for more details on usage and examples.  The differences are described here:
