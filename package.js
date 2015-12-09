@@ -1,5 +1,5 @@
 Package.describe({
-    name: "goorancid:accounts-entry-flow",
+    name: "goorancid:accounts-flow-entry",
     version: '0.1.0',
     summary: "Make signin and signout their own pages with routes utilizing FlowRouter.",
     git: 'https://github.com/goorancid/flow-entry',
