@@ -1,6 +1,6 @@
 This is a fork of dovrosenberg:accounts-entry-flow which is a fork of joshowens:accounts-entry. This version utilizes Flow Router instead of Iron Router.
 
-####Last modified 08 Dec 2015
+####Last modified 10 Dec 2015
 
 ## Getting started
 
